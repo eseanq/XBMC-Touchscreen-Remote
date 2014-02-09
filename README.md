@@ -1,2 +1,0 @@
-XBMC-Touchscreen-Remote
-=======================
